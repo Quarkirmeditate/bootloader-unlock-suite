@@ -19,4 +19,4 @@ Project page: https://bootloader-unlock-suite.softax.xyz
 - ✅ **System Tweaks:** Access hidden settings, customize UI elements, and optimize performance.
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                     
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                      
